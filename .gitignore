@@ -1,0 +1,8 @@
+.venv
+.idea
+.vscode
+node_modules
+venv
+.env
+bot.log
+bot_status.json
